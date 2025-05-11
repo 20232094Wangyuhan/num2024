@@ -1,2 +1,4 @@
 hello world
 add new line here for main branch only
+I want to try a new set of attributes to a.txt in dev branch.
+Continue modifying attributes. Test result is satisfied.
