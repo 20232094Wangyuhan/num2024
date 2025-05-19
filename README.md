@@ -56,13 +56,11 @@ Table, like this one :
 |--------------|---------------|
 | Content Cell | Content Cell  |
 | Content Cell | Content Cell  |
-| content cell | content cell  |
 ```
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
-content cell  | content cell
 ```   
 
 
